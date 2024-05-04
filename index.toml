@@ -16,6 +16,11 @@ hash = "153ab79f63cd826b6abb7d514125cb519d84310da58cf24f3bb7e0a5d39615da"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "4bfa8479d437ef7196080a278df2abeba7afc63171f3b77d978291b738079cfd"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "f7aa09216df3a1012e59280d12a892f78738a2330b2f15ec385dbe261cb62ec3"
 metafile = true
