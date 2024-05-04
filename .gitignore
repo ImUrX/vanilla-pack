@@ -1,0 +1,11 @@
+# Exclude exported CurseForge zip files
+*.zip
+!world/datapacks/*.zip
+!datapacks/*.zip
+!shaderpacks/*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Nix
+.direnv

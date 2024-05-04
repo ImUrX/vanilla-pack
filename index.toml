@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "78f81a35b42b2794f338ef848a49354886751d577ac919739916861d7bd9e08d"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "cd774a8a652beea10342e6696b0424e624c23d486c3e2587ff7208e88f391169"
+metafile = true
+
+[[files]]
+file = "mods/better-locale.pw.toml"
+hash = "153ab79f63cd826b6abb7d514125cb519d84310da58cf24f3bb7e0a5d39615da"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "f7aa09216df3a1012e59280d12a892f78738a2330b2f15ec385dbe261cb62ec3"
+metafile = true
+
+[[files]]
+file = "mods/client-commands.pw.toml"
+hash = "71e81f688d26ac8763c293b473ea7c4337c3da4ba470596d4a8781619800ad60"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "16e2d887c13a8cc1a3dc841f1d3054d18e6aba9c7497641bb0519d8123cd81b6"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e8e6808f80ef49add329abeb055aa05ead6c53fa3b5513648ed7c11634235688"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3128c3600b7b3f360925afb2e0ace33c63fe0d588f91fc8f42648ff2362cb2a3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b2ee702eefe4a495e3a8aabfa1dc7862ac84077438c37e8171b17ec05ced533b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "5c0dfc69736a9d187228e3964f1ae7baf33179f18e7d6862992b874689e49729"
+metafile = true
+
+[[files]]
+file = "mods/recipes.pw.toml"
+hash = "799ed0b6901c07480a24d444568251644442ab246308bb4b76574006da0fc8f0"
+metafile = true
+
+[[files]]
+file = "mods/screencopy.pw.toml"
+hash = "a99d63368629032fa9dbb461ff8001447a042c73f0d063ab47bc43f4c9f4d887"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "a173b9ea460331b514e716197f392eebd6348f66fd89db9e4539cb10bcb105a7"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "8dac75c1324c0901b5f6c878ed1775d699ee8e100728c7f722eb4ed6ebd10a9a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-zoom.pw.toml"
+hash = "fa548dd8dc20fa07f2263ccc680ed486f0d6cde8252d27bc62032c5b25b2d413"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "f16e8ee55fc2a9c4516cf506d2748d754446512a686ffa808957a090d31f0358"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e48e9b9521e309c5ac808f98bd75f2364747b1dd834235dda2de361e9e860584"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Vanilla Zoom"
+filename = "vanillazoom-1.20.6-2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDbpcSM6/versions/n1P4HGWx/vanillazoom-1.20.6-2.5.jar"
+hash-format = "sha1"
+hash = "c945998b0ea18b27a9d463907f25039ca6853669"
+
+[update]
+[update.modrinth]
+mod-id = "CDbpcSM6"
+version = "n1P4HGWx"

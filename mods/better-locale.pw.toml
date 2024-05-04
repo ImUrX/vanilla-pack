@@ -1,0 +1,13 @@
+name = "Better Locale"
+filename = "betterlocale-2.1.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/whlTpbaW/versions/eQoklJHR/betterlocale-2.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "20c1ced18b5eacdd4065386daf3e4cc1fc95ece0"
+
+[update]
+[update.modrinth]
+mod-id = "whlTpbaW"
+version = "eQoklJHR"
