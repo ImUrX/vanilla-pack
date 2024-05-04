@@ -11,3 +11,8 @@ hash = "5b4faa6aa64f342a251faf7e29db0acd03b8a08c"
 [update.modrinth]
 mod-id = "DOUdJVEm"
 version = "RJ59Pb7W"
+
+[option]
+optional = true
+default = false
+description = "Joystick support for Minecraft (doesn't work for me)"

@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "af332e5e4342d4c0b200bed45e5264ed56dcf2119ca1fa18661c2da8e04d1856"
+hash = "cf0e39596ceb94a062038cf57a3247589e81cc7be84e6f53f29da6e4471e1885"
 metafile = true
 
 [[files]]
@@ -108,6 +108,21 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "efb70be5b71312da5729ac6b319cf40ef14090ec75ad3fa48b1c65c56bf22ab2"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "45449bf2875e245dc569867da96dc95b86f3f2b160efc96ccabe4b494c1855e1"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
 metafile = true
 
 [[files]]
@@ -192,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "0cc2e605b031352b5763dd77571beaa481249390212bdc4f751f5c8d638c1972"
+hash = "c94930b54e7b38bc91dee8cc541cae7da1ee65fff9221a521e86758da6a93b11"
 metafile = true
 
 [[files]]
