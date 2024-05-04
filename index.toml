@@ -41,11 +41,6 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "e8e6808f80ef49add329abeb055aa05ead6c53fa3b5513648ed7c11634235688"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
 metafile = true
@@ -108,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "a99d63368629032fa9dbb461ff8001447a042c73f0d063ab47bc43f4c9f4d887"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "a173b9ea460331b514e716197f392eebd6348f66fd89db9e4539cb10bcb105a7"
 metafile = true
 
 [[files]]
