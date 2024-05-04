@@ -186,9 +186,8 @@ hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-zoom.pw.toml"
-hash = "fa548dd8dc20fa07f2263ccc680ed486f0d6cde8252d27bc62032c5b25b2d413"
-metafile = true
+file = "mods/spyglass-improvements-1.5.1+mc1.20.5+fabric.jar"
+hash = "d981a27268fc21f38c6a3f9f8c2651a06b626a68ac42a1c3c59081e4830ec565"
 
 [[files]]
 file = "mods/visuality.pw.toml"
