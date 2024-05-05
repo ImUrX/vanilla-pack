@@ -22,12 +22,12 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "f7aa09216df3a1012e59280d12a892f78738a2330b2f15ec385dbe261cb62ec3"
+hash = "e113fe1a956072ef733e819e87d44ef5c2d5ee1af118b4584f734e60876a2fde"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "71e81f688d26ac8763c293b473ea7c4337c3da4ba470596d4a8781619800ad60"
+hash = "64f3b74b2f147898e61c6a1963aa49e8934146706dc481287bf320980e3e03cf"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cf0e39596ceb94a062038cf57a3247589e81cc7be84e6f53f29da6e4471e1885"
+hash = "e9309045aea4004b2b1ea0d5c95a81924da8f3773ea6a8b6f4d29a7b4619c99a"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b2ee702eefe4a495e3a8aabfa1dc7862ac84077438c37e8171b17ec05ced533b"
+hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
 metafile = true
 
 [[files]]
