@@ -161,11 +161,6 @@ hash = "a99d63368629032fa9dbb461ff8001447a042c73f0d063ab47bc43f4c9f4d887"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "8dac75c1324c0901b5f6c878ed1775d699ee8e100728c7f722eb4ed6ebd10a9a"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
