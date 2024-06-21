@@ -11,11 +11,6 @@ hash = "3efb5df489cdac5c07964f7d2d6bcb8f0464f76e55b4397ed85f9e378fa1a784"
 metafile = true
 
 [[files]]
-file = "mods/better-locale.pw.toml"
-hash = "153ab79f63cd826b6abb7d514125cb519d84310da58cf24f3bb7e0a5d39615da"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
 metafile = true
