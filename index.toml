@@ -151,6 +151,10 @@ hash = "a99d63368629032fa9dbb461ff8001447a042c73f0d063ab47bc43f4c9f4d887"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin-1.11.0+1.21.jar"
+hash = "9015b439370d460fb4a16e479aecd95b80e70d0d37b7d245b77191f68cbd0f87"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
