@@ -21,9 +21,8 @@ hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
 metafile = true
 
 [[files]]
-file = "mods/client-commands.pw.toml"
-hash = "19e3796a84e3623f5d51e06fe570f2301ddc27da992ff4f1f4e133b2188940bc"
-metafile = true
+file = "mods/clientcommands-2.9.jar"
+hash = "3aff6d13931dfbdc10ecefbe0ca815767c8b1a5b5208d6367fe99fe1b2333495"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
