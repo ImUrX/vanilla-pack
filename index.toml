@@ -11,6 +11,11 @@ hash = "3efb5df489cdac5c07964f7d2d6bcb8f0464f76e55b4397ed85f9e378fa1a784"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-of-undying.pw.toml"
+hash = "c790aa6124ce4794e83aede7f7b28fa5ba4884d9225825fd3eea1b56e5653611"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
 metafile = true
