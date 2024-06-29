@@ -22,12 +22,17 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
+hash = "e0b80df6b8f1dfa275a1c9ee3e43f346b1839b544831fb11c5fe4204424fffc4"
 metafile = true
 
 [[files]]
 file = "mods/clientcommands-2.9.jar"
 hash = "3aff6d13931dfbdc10ecefbe0ca815767c8b1a5b5208d6367fe99fe1b2333495"
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "c5d339675a4fabe4e691367830651c6cd5f5278286f3cf0bd21f6c3ef4e4c629"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -36,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
 metafile = true
 
 [[files]]
@@ -51,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "53262ac9ab485f8fe3fa2766045a8562149ce4274b1dde9e6529ae7a1a850ec8"
+hash = "93bcf3b2c06d84b695decb6ebf35f08cb3868ca2766fdb5f96d082bd274f33cf"
 metafile = true
 
 [[files]]
@@ -66,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "363498eab749571f10e1f22528dc4e156a6df2cd1f80681c8bfa57cbf131dfc6"
+hash = "27ac8197dad6a1d489a153c86559915412b03e9101173694a5a22ad9a2b2ab43"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -96,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
+hash = "850556d97d0fa30f37bdb7e50a0c085778b409db8649f174005755142199e3a3"
 metafile = true
 
 [[files]]
@@ -155,8 +160,9 @@ hash = "a99d63368629032fa9dbb461ff8001447a042c73f0d063ab47bc43f4c9f4d887"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin-1.11.0+1.21.jar"
-hash = "9015b439370d460fb4a16e479aecd95b80e70d0d37b7d245b77191f68cbd0f87"
+file = "mods/show-me-your-skin.pw.toml"
+hash = "f6bd67909c2d27d30cd414f5fcbf97bde2ab5134cd4ca0a6d86e0faf37de6b1d"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -165,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
@@ -175,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "297e529dbfa1570ead84e94bca126716857fcd6515ff9dcf751ff4f0c9f6319b"
+hash = "55f70f181fe81201201f2a1e82f462c67ef103e02e3b7b79c17369ca2a6ad6bc"
 metafile = true
 
 [[files]]
@@ -200,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "49f3da26e7328d0b47c3ab018197185bbf6848ff794e0f383653609ea67bf8c4"
+hash = "3323b22880efe690d01449ae0ef2f8c30104b7514266b808c2f22b8363e6c7f9"
 metafile = true
 
 [[files]]
