@@ -140,6 +140,11 @@ hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
 metafile = true
 
 [[files]]
