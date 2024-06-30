@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "a5328988819f83745368acf7cc681bec86b2d044aab83bf9d8c123c413c20887"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "0caf0f3242a37f8ade406c12e6b135b7d6d98e5734f825652515b2e6aede1c69"
+hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
 metafile = true
 
 [[files]]
@@ -211,6 +211,21 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "ec983a1f08f8e00417ecdc2c71bfa01a597a05fd2914750ee7afc2eb1542d186"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "0a4676b25054d0bd8cc97adc49b2fca2e4af4f2c92fc3dca484c7fea169aebff"
 metafile = true
 
 [[files]]

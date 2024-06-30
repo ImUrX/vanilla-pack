@@ -11,8 +11,3 @@ hash = "281266d1d35308405e7b8edf1b818b2c42f8f3ab"
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "5gC41Itp"
-
-
-[option]
-optional = true
-description = "Adds physics to sounds in Minecraft"
