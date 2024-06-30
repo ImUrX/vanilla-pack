@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
+hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
 metafile = true
 
 [[files]]
@@ -171,12 +171,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "6b3d1cc8b47f371021aed3dd6bcc2e3737a496414dcc78588eba01260bbe55db"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "f5f48d206d75040afe4e65ce7f9459f9ffffda8a0ebc1ad1a90b623fd3cde529"
 metafile = true
 
 [[files]]
