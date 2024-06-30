@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.sound-physics-remastered.pw.toml.swp"
+hash = "5e1f9f0904b0a5d08c14d38ecf638ab6947d4ea614bb2142fa9d4a41bcd5d655"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
 metafile = true
@@ -141,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+hash = "a5328988819f83745368acf7cc681bec86b2d044aab83bf9d8c123c413c20887"
 metafile = true
 
 [[files]]
@@ -181,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
+hash = "0caf0f3242a37f8ade406c12e6b135b7d6d98e5734f825652515b2e6aede1c69"
 metafile = true
 
 [[files]]
