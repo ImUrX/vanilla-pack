@@ -56,11 +56,6 @@ hash = "76c21d478a144a4a92edb71aac267c0f8e341f896e26dc96730fe274fd1b8e12"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
