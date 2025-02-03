@@ -1,18 +1,18 @@
 name = "RenderPearl"
-filename = "RenderPearl v2.0.zip"
+filename = "RenderPearl v2.2.0-beta.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BrRak9pu/versions/2WgSMzZC/RenderPearl%20v2.0.zip"
-hash-format = "sha1"
-hash = "f6fb2ec49e3770857944729726a6b1c5fe962deb"
+url = "https://cdn.modrinth.com/data/BrRak9pu/versions/Q6SiC1uy/RenderPearl%20v2.2.0-beta.6.zip"
+hash-format = "sha512"
+hash = "b1cf55955dce8d717bb253e1cb552936f3d009efd1da3824ba7627b9a8b271e145d2760fcd319027d0d6d79f4d13d889d97dd8fc3b405202d16600b12cf1f503"
 
 [update]
 [update.modrinth]
 mod-id = "BrRak9pu"
-version = "2WgSMzZC"
+version = "Q6SiC1uy"
 
 [option]
 optional = true
-default = true
 description = "A lightweight and very customizable shaderpack"
+default = true

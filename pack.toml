@@ -1,15 +1,15 @@
 name = "vainilla"
 author = "ImUrX, Kodi"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "de319f600df7fe746e047a40124e2cd3f525cc574c9fdc0ff9a7e5e4c0a826f4"
+hash = "34546667baa61f342367ff54c8ff3fd7d3ee62bacdf2d7ffb6db692de42333c7"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.21"
+fabric = "0.16.10"
+minecraft = "1.21.4"
 
 [options]
