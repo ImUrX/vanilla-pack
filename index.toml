@@ -170,8 +170,13 @@ hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "cc916c83a5c110b7c7e919646c0ae921a88f7a9616485e47a4565b267d12c5d1"
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d8c819fde97f9129ff0e9a6402e18598eb7d844c0193007a08aa88f3c0e3e507"
 metafile = true
 
 [[files]]
@@ -222,6 +227,21 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "c0082417dfdfb3db54f90e364b3db42544dcc3089baaa5ce2da35be0e0562d1d"
 metafile = true
 
 [[files]]
