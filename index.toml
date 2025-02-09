@@ -161,9 +161,8 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
-metafile = true
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-pre-715.jar"
+hash = "b066913d1a8a878a19aa88ccf827d7c4cc020c013d7201e4af7889b90672895f"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
