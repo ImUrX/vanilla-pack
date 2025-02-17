@@ -26,8 +26,8 @@ hash = "efe6d58f7ba80105053486bb6321bd1e364cf3bae9077d907b9e205413a80629"
 metafile = true
 
 [[files]]
-file = "mods/clientcommands.pw.toml"
-hash = "f5bb76e728155943a40c70a8083b9339e6eacd36b07c35b3a075a7a6b17d1762"
+file = "mods/client-commands.pw.toml"
+hash = "56c9c4fd7be775aa9b8c97b8e3e3224f1c4df7680bfa626bcb5c38a4f432b203"
 metafile = true
 
 [[files]]
