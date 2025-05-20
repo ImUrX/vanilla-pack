@@ -26,7 +26,7 @@ hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/purpurclient.conf"
-hash = "5d74ffc1f213f66977d60d46373276ecd80b5c01ae24ce846331588de0984beb"
+hash = "67a4333d2372ad9daedc4bbd995aeac95f7ea27944e5590bbc10d16afe892d1e"
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
