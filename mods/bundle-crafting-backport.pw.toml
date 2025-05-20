@@ -1,0 +1,13 @@
+name = "Bundle Crafting Backport"
+filename = "bundle-crafting-backport-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9meQUmie/versions/FM1YaZE6/bundle-crafting-backport-1.1.jar"
+hash-format = "sha512"
+hash = "7796671239420c78ec2dd3934db40f54ab82133f9a75931f3b0b91317967dff219735b9401afed65e90f6b5276abc174dce0a220229e7649c95a626bb3616ffe"
+
+[update]
+[update.modrinth]
+mod-id = "9meQUmie"
+version = "FM1YaZE6"
