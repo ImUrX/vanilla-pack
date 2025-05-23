@@ -234,6 +234,11 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
@@ -285,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
 metafile = true
 
 [[files]]
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "f51450fce6c7064ac1ad3d2107f0223ea0601fb9ea5e970d1cdab340464ce8b8"
 metafile = true
 
 [[files]]

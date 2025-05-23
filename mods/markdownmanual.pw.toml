@@ -1,0 +1,13 @@
+name = "Markdown Manual"
+filename = "markdown_manual-MC1.20.1-fabric-1.2.5+c3f0b88.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPQ9xkPg/versions/WahW4kDQ/markdown_manual-MC1.20.1-fabric-1.2.5%2Bc3f0b88.jar"
+hash-format = "sha512"
+hash = "f90184856fb42f9c9e6b13bedf07ed286a7399323a363369abbb777b1374f0f51e4d4fc34abdcc1b14439a53edf12398d0e1027e7c785afd6f60d383203bdcf7"
+
+[update]
+[update.modrinth]
+mod-id = "nPQ9xkPg"
+version = "WahW4kDQ"

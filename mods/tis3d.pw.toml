@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-MC1.20.1-fabric-1.7.7+354a583.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L23x7zL8/versions/CLM8Bo4w/tis3d-MC1.20.1-fabric-1.7.7%2B354a583.jar"
+hash-format = "sha512"
+hash = "61f6917df75c176c417d4325d3c6a5d0bf419c9f3770a73413c1d98c0527d6aee41fc3d731fb814dc18ea46c38c52a7432d0567fbe8e75317c704dce79b96537"
+
+[update]
+[update.modrinth]
+mod-id = "L23x7zL8"
+version = "CLM8Bo4w"
