@@ -14,5 +14,4 @@ version = "binlbSgi"
 
 [option]
 optional = true
-default = true
 description = "Extras for Midnight Controls (disable if not used)"

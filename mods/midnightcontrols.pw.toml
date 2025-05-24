@@ -15,4 +15,3 @@ version = "xHOdr9un"
 [option]
 optional = true
 description = "Joystick support for Minecraft"
-default = true

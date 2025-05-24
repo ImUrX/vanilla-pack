@@ -359,12 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols-extra.pw.toml"
-hash = "efb70be5b71312da5729ac6b319cf40ef14090ec75ad3fa48b1c65c56bf22ab2"
+hash = "6331b7c98308850f75385683a71a964c0760398abbd273be0781669e9c99277a"
 metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "64818e22fe3ef5ff8691e93c9d3c23bed897c273151fd6d1079deca6e47736dd"
+hash = "a7cec71c031cc2a03c2440fc430c28f8d6955ea92286fae1e16176a328b93b41"
 metafile = true
 
 [[files]]
