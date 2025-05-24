@@ -111,11 +111,6 @@ hash = "58b90c52266f89c339a35bd46378d8059d56949d5926c7b25da98719d0b38065"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
@@ -193,11 +188,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
 hash = "65a6a08ed3682f926d09675b80b8ee08cc3170f540166626b94e55354911b241"
-metafile = true
-
-[[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
 metafile = true
 
 [[files]]
