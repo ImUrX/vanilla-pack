@@ -1,13 +1,7 @@
-name = "PatPat [Mod & Plugin]"
+name = "patpat"
 filename = "PatPat-1.1.1+1.20.1.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "261f53678d64356690a8e6b1c0f284ef395c93d9"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6234971
-project-id = 1105962
+url = "https://cdn.modrinth.com/data/dw7LChq9/versions/1TczNoVf/PatPat-1.1.1%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "2e4f4605051744eda508b9ad6064e31d1da0ab6474fe2bd0333b052cb581febe"
