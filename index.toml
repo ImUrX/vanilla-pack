@@ -44,6 +44,11 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/apugli.pw.toml"
+hash = "71ee2c3e42554bd666679a6ec17305213bba097a864014ba03c83fdd77262555"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "d48e943c59dd7c5c0c20b80afd23e18e05385ed79b37e80238f949ec0f5e8d9c"
 metafile = true
@@ -293,6 +298,11 @@ hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
+file = "mods/improved-inchling-origin.pw.toml"
+hash = "688855bef4eb26f48558c73a9a38025605d163dfbdbe56a2d2966131119dbf23"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -379,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
