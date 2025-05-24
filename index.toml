@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "d450e9611be7752da02162620555ea394744dd3d3ff9d637780e7762a4d68b51"
+hash = "6fd34bf65c7e23b232315da1a5c9139ffa1d8d334495872fd229e39e00b94d61"
 metafile = true
 
 [[files]]
@@ -353,9 +353,8 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
-file = "mods/mythic-mounts.pw.toml"
-hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
-metafile = true
+file = "mods/mythic-mounts-1.20.1-7.2.jar"
+hash = "edf795a17aa7f7773235c963cd5f0517d4a0a4b5ce8b90b10c17a34e109e9ee9"
 
 [[files]]
 file = "mods/noisium.pw.toml"
@@ -534,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "025a14ce0330fd9b8abefa5ddee60d820d3ef4c0c9fa8a0d37da658e21a6e051"
+hash = "bc30cf151f7d0029abbe9b03abc8b2d89a4b31ce86e0026305a83ac8f169213f"
 metafile = true
 
 [[files]]
