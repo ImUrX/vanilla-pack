@@ -1,0 +1,13 @@
+name = "PatPat [Mod & Plugin]"
+filename = "PatPat-1.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "261f53678d64356690a8e6b1c0f284ef395c93d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6234971
+project-id = 1105962

@@ -387,6 +387,11 @@ hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "9081af426a1e2f41b1f1a0cbe74fc37e52d77dbb04cf6d7211023bc88ab1f9df"
+metafile = true
+
+[[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
 metafile = true
