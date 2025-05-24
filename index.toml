@@ -99,6 +99,11 @@ hash = "f3a759fb64a5f35e816ef38bb618b48d89aac3119ce595f55d6d91aa7bbe587e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "c603294c194b869fd14d2cdda3f0663f0137b1127b1fd2b627b3945854ef96c4"
 metafile = true
