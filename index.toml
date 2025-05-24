@@ -54,6 +54,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
 metafile = true
@@ -109,6 +114,11 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/chococraft.pw.toml"
+hash = "1d5afec438fc8fede781e4be1abe412800ab872066e685d9832ba27a9a2329aa"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
 metafile = true
@@ -151,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "4156bc2e470b393cdd47779572fe39addc806495b7e62dcc8c8a1461d872fd7b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
@@ -214,6 +229,11 @@ hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
@@ -265,6 +285,11 @@ hash = "3eefb4f3e368eb078c3b934de9140a06730e5d00fd0aa0d662ddabbde687149e"
 [[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "a81a46242707c679e57c794b7e8690e931ad0a8132d99734db09ef642887f9a8"
 metafile = true
 
 [[files]]
@@ -325,6 +350,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
@@ -480,6 +515,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true
 
 [[files]]
