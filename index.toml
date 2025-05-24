@@ -29,6 +29,11 @@ file = "config/purpurclient.conf"
 hash = "67a4333d2372ad9daedc4bbd995aeac95f7ea27944e5590bbc10d16afe892d1e"
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "1b6e4f43c8138e60d9f2283c83fa5f5e5c267b35ca764952699472c751647642"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "44b701cd39246e1699d49278cb55459d3b80768e69c56fa4c36bb8dd03605868"
 metafile = true
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "419bfd63bc351527f11cb16f22734f1c6419e7c511fb2597e6bdebc4c9beda59"
 metafile = true
 
 [[files]]
@@ -320,6 +330,21 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "9876d69a9340de96537eb80fec92f5df5afdd2e5464dd6a557597358f3f79f5e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "2119cbbefc4cddc7dcd10e3b8e3bcfde462242aa8383f62d4218ffd14d3ce7e7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "52474049a6eef09eb3cbd35d92c4249808f4d2338bd4da272991f2924da3c47f"
 metafile = true
 
 [[files]]
