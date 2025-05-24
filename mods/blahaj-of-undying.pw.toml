@@ -1,13 +1,13 @@
 name = "Blåhaj of Undying"
-filename = "blahaj-totem-1.7.3+1.21.4.jar"
+filename = "blahaj-totem-1.7.3+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aJb4vlkM/versions/4rtRGM6f/blahaj-totem-1.7.3%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/aJb4vlkM/versions/MqNk4MU0/blahaj-totem-1.7.3%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "4fcbb2d6f595f3f9b4297960b1bbd3aa9ee95b1d532447d07bd7340ac60341a71e943e9a9108803f62a540a9a52f74919d6c68f8d3946c8f83e63751746786d3"
+hash = "d520da5a0039bba4360cd79eae4c6fe626c57c0a673899d359382a7e4b031f31a7127f6e46dee78cd721b877b8e0fe3ecc37021ff14d5105df93a50c46ad0a3e"
 
 [update]
 [update.modrinth]
 mod-id = "aJb4vlkM"
-version = "4rtRGM6f"
+version = "MqNk4MU0"

@@ -1,13 +1,13 @@
 name = "Screencopy"
-filename = "screenshotcopy-fabric-1.2.3.jar"
+filename = "screenshotcopy-fabric-1.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aru7gAyl/versions/YnGdJtmJ/screenshotcopy-fabric-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/aru7gAyl/versions/b8L536ND/screenshotcopy-fabric-1.2.5.jar"
 hash-format = "sha512"
-hash = "83f289a9cc500ba0c18476d8310dfbd0863bc12aed330c5f74d8a9a0bba7ce2e5e7e764fcb0e8ce054fe72a37e82685c4993d21dbfa4eb7dafbb3b285f8b8ac4"
+hash = "c4c167d39a07ebc4aea3b35fe0d0cc47f4fdb2cabdab24314d35d5a9daa39d23296fdc16d91d3221afb570ee2a90b1455e4073ded0ad7cf2a6517be3e56c7351"
 
 [update]
 [update.modrinth]
 mod-id = "aru7gAyl"
-version = "YnGdJtmJ"
+version = "b8L536ND"

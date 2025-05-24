@@ -1,13 +1,13 @@
 name = "Bare Bones"
-filename = "Bare Bones 1.21.4.zip"
+filename = "Bare Bones 1.21.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rox3U8B6/versions/pj9xDrNx/Bare%20Bones%201.21.4.zip"
+url = "https://cdn.modrinth.com/data/rox3U8B6/versions/iJfp9U26/Bare%20Bones%201.21.5.zip"
 hash-format = "sha512"
-hash = "1182778d87eee986d5c6236e5adcddc41e06f6a30995be8dd530156f6c67b37e410867670967ab1e5205dd12b8397abc9b195bc1271511bb4f64253b8bed857b"
+hash = "a7578293ebd17909b4566dd9b8e11423ee71c889c6eacea9c5a2ac8fae30187b9f04953e26cf79e29995f5fc30949581c42eb3641a8efc53f9307e9f3ac2e9c7"
 
 [update]
 [update.modrinth]
 mod-id = "rox3U8B6"
-version = "pj9xDrNx"
+version = "iJfp9U26"
