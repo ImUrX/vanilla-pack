@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+hash = "bb9193f42fdbc9ad57ab3ea64fa6e9ff0ffad45ba3da85ec8caecadee5bd51c7"
 metafile = true
 
 [[files]]
@@ -164,11 +164,6 @@ hash = "4156bc2e470b393cdd47779572fe39addc806495b7e62dcc8c8a1461d872fd7b"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -180,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d1f561a89e7a4c5d98b6cbb25088ea2ad56ca1cff60118f2076912f49f8cfed3"
+hash = "0ddcf37f424fbce9e6cf434cbbfea5548769e61b683e8aa1a0735d8c5eaeb2cb"
 metafile = true
 
 [[files]]
@@ -358,7 +353,7 @@ hash = "edf795a17aa7f7773235c963cd5f0517d4a0a4b5ce8b90b10c17a34e109e9ee9"
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+hash = "7fe066186060f986137a2fc4aa83938a996a3d894c4e999a51473dfd1204b11b"
 metafile = true
 
 [[files]]
