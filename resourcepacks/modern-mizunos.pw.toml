@@ -1,0 +1,13 @@
+name = "Modern Mizuno's"
+filename = "Modern Mizunos v0.3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dHuFRY9/versions/yv8QaGEL/Modern%20Mizunos%20v0.3.1.zip"
+hash-format = "sha512"
+hash = "8318db966474555b53f1a8f70fd88b5feee6013078f6381da9ab2d7098d037aeaf82cd87fed82e2416a7391a0e6b87ce955ea05dd9889860c4218790acdcb169"
+
+[update]
+[update.modrinth]
+mod-id = "9dHuFRY9"
+version = "yv8QaGEL"

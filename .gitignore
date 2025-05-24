@@ -1,6 +1,7 @@
 # Exclude exported CurseForge zip files
 *.zip
 !world/datapacks/*.zip
+!resourcepacks/*.zip
 !datapacks/*.zip
 !shaderpacks/*.zip
 

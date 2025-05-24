@@ -318,6 +318,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
 metafile = true
@@ -358,12 +363,22 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts-1.20.1-7.2.jar"
 hash = "edf795a17aa7f7773235c963cd5f0517d4a0a4b5ce8b90b10c17a34e109e9ee9"
 
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "7fe066186060f986137a2fc4aa83938a996a3d894c4e999a51473dfd1204b11b"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
 metafile = true
 
 [[files]]
@@ -377,8 +392,28 @@ hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
+metafile = true
+
+[[files]]
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+hash = "e65963729f01e0989b7a57ef340411fd0de3bc97c268e230e832dc69d2a07d64"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "f065531ba831351afe0da0adb6ecd6034c6d303728b24f6cec3805c90f795fa1"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
+metafile = true
+
+[[files]]
+file = "mods/orpheus.pw.toml"
+hash = "03da3ffc4bd97b0357b707b9027d1287687988e4fff834fb11b499952eb42a39"
 metafile = true
 
 [[files]]
@@ -522,6 +557,10 @@ hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Mizunos 16 Craft JE_1.20.1-1.0_230720.zip"
+hash = "e4387bbb996a7e582680a99ce4a13633c100d6a88acc6210b868a6c43621cea1"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
 metafile = true
@@ -529,6 +568,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-mizunos.pw.toml"
+hash = "3ad61de2e2586e56db1e32dbc28f33ebfda143a283e3d2a9b79b489bd1067569"
 metafile = true
 
 [[files]]
