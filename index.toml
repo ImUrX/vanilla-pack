@@ -358,11 +358,6 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
 metafile = true
@@ -374,11 +369,6 @@ hash = "edf795a17aa7f7773235c963cd5f0517d4a0a4b5ce8b90b10c17a34e109e9ee9"
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "7fe066186060f986137a2fc4aa83938a996a3d894c4e999a51473dfd1204b11b"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
 metafile = true
 
 [[files]]
