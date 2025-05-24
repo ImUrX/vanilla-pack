@@ -174,11 +174,6 @@ hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "0ddcf37f424fbce9e6cf434cbbfea5548769e61b683e8aa1a0735d8c5eaeb2cb"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
 metafile = true
@@ -335,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "b8701de89dc6dd2a33db29ebbc0f821c4288fa9cac273ed6c6dbc1d5e29c97ec"
 metafile = true
 
 [[files]]
