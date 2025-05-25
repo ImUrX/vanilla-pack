@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "4156bc2e470b393cdd47779572fe39addc806495b7e62dcc8c8a1461d872fd7b"
+hash = "904cad0b65de8e8243d1be2c60c93d63103182bd57654d864f6f74e32e7dc412"
 metafile = true
 
 [[files]]
