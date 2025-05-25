@@ -114,8 +114,8 @@ hash = "8fd4ddf48d8e591c6a8708921579a94628f7c6eba5e102c42fc0f544b60c621d"
 metafile = true
 
 [[files]]
-file = "mods/bundle-crafting-backport.pw.toml"
-hash = "62eadf5703fcacdbd9ba881bb2396847bbb3911797802965393e243ae3bd0d76"
+file = "mods/bundle-backportish.pw.toml"
+hash = "300d47da7b3597b02f50de0de7574e1eaf63cdf2273ced05db697fad94b493a5"
 metafile = true
 
 [[files]]
