@@ -169,6 +169,11 @@ hash = "402d786e2ed0af7c78b6d4871136479c0e2a71b884df841dd3d23f7c17d379e3"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
 metafile = true
@@ -494,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "24113ef3684608cdf74a298af084529ae9ed0a959564231efa242abd5fe12409"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
