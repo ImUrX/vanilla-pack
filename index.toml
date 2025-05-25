@@ -139,6 +139,11 @@ hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
 metafile = true
 
 [[files]]
+file = "mods/client-commands.pw.toml"
+hash = "3f336ce8f807d92f58fc078c7931d4aa65724852cb5a991564ace6650d12a054"
+metafile = true
+
+[[files]]
 file = "mods/clientcommands.pw.toml"
 hash = "329bcb507c1ae4340abef69d084e24110dd936b015daa3946bb46440e3c3c245"
 metafile = true
