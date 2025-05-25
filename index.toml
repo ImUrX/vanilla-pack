@@ -407,6 +407,16 @@ file = "mods/mythic-mounts-1.20.1-7.2.jar"
 hash = "edf795a17aa7f7773235c963cd5f0517d4a0a4b5ce8b90b10c17a34e109e9ee9"
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
+file = "mods/noend.pw.toml"
+hash = "b190b34b2b5b74238fb5015dada4bea38401896ebc9abfec62fbaa979b0fb27b"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "7fe066186060f986137a2fc4aa83938a996a3d894c4e999a51473dfd1204b11b"
 metafile = true
@@ -444,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/orpheus.pw.toml"
 hash = "03da3ffc4bd97b0357b707b9027d1287687988e4fff834fb11b499952eb42a39"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]

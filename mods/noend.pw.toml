@@ -1,0 +1,13 @@
+name = "DisableEnd"
+filename = "noend-0.2-BETA [MC 1.20 & 1.20.1].jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/26FOsJLr/versions/lrz48o4J/noend-0.2-BETA%20%5BMC%201.20%20%26%201.20.1%5D.jar"
+hash-format = "sha512"
+hash = "43c1e3f002b0177b37d79458258caa78c87d785864733497b3fcb1cbdf9c7b69051c3c35e57cd23f8aba1b44d9fbf31b1a6b0129837b1bdfae4ead4aa5b7686b"
+
+[update]
+[update.modrinth]
+mod-id = "26FOsJLr"
+version = "lrz48o4J"
