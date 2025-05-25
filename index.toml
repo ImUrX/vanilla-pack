@@ -144,11 +144,6 @@ hash = "3f336ce8f807d92f58fc078c7931d4aa65724852cb5a991564ace6650d12a054"
 metafile = true
 
 [[files]]
-file = "mods/clientcommands.pw.toml"
-hash = "329bcb507c1ae4340abef69d084e24110dd936b015daa3946bb46440e3c3c245"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -251,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "1022783093409686e3f0387fe8a43982a0d61226878193654efead8563009d96"
 metafile = true
 
 [[files]]
