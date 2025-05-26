@@ -353,6 +353,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "5e0f076b72f21c779eb8046e27fcbb79372b0894ab319090c0b2d5329fbc36cf"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
 metafile = true
