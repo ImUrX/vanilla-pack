@@ -304,6 +304,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/heartcanister.pw.toml"
+hash = "237d71c00b519bdd4fbd93207cab686bfe08abd20b9bcea608ec6102e52b856b"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting-fabric-1.20.1-0.11.2-pre-716.jar"
 hash = "3eefb4f3e368eb078c3b934de9140a06730e5d00fd0aa0d662ddabbde687149e"
 
@@ -462,6 +467,11 @@ hash = "03da3ffc4bd97b0357b707b9027d1287687988e4fff834fb11b499952eb42a39"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "33f4eda48f72f749720bd4fa149f1e6260cde12b7c1973471c22787e93927833"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -509,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "222ba96b4e6072eaf6cc9f0efaaebb6a166ee773897228ebb7513a804e932581"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
