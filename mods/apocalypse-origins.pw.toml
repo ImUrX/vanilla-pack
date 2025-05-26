@@ -1,0 +1,13 @@
+name = "An Origins Addon: Apocalypse Origins"
+filename = "apocalypse_origins-0.4.63-1.20.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yKqmIzLj/versions/TnqW8jwZ/apocalypse_origins-0.4.63-1.20.X.jar"
+hash-format = "sha512"
+hash = "abd866beae9a6d45d137befd2e7ec195f37441e8acc4b44d51960ade91c6f597875ec08183e5122961542d98e39c1108130379603bbebf67d90a3ee2fe110546"
+
+[update]
+[update.modrinth]
+mod-id = "yKqmIzLj"
+version = "TnqW8jwZ"
