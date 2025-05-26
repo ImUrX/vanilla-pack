@@ -44,11 +44,6 @@ hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
 metafile = true
 
 [[files]]
-file = "mods/apocalypse-origins.pw.toml"
-hash = "d45f2789a0587ee70ecfea9682a0d7bac3077e8111353258f5aa9b71131288ee"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -469,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
