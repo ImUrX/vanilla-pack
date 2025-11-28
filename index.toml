@@ -91,6 +91,11 @@ hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
 metafile = true
 
 [[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "7e339dc898e79e7db9eb8c9ce902f362b1a2032e6523628ee020a9bc9fa9a77e"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols-extra.pw.toml"
 hash = "efb70be5b71312da5729ac6b319cf40ef14090ec75ad3fa48b1c65c56bf22ab2"
 metafile = true
@@ -141,6 +146,11 @@ hash = "f316a724cd4c3536d386a40387942f133954f3c57a871493fb8755e78e4546f4"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "d44d60539dd02e524abe4cabda7dfbf150709babdcb56f129e002750ed1b569c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
@@ -163,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
 hash = "cd0355a495a846e5116d1fd681aa9c2e664ff9c5ed6c421e3e55e5e0d8b89c54"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "631f77d6dba0c2578f7ca8860e44cc22b5a003cec3176480a035a179be291d22"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "273b5830e9c7c02f65da4fa8080040c464dcacbabd4b56a9d92a46a5e7f3ada8"
 metafile = true
 
 [[files]]
