@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "371d38aa75e329aa1fb9a032d6c1c891614457f45f40b4d0ed23b62ce79cf678"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -27,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "72a50c56233e893170d4dec63e1e33a8a0e760547c19bb4283119cdba538fb80"
+hash = "ecf23954d414ac0878a1d899f7f23936994768d4f617e228079ffb587637afb6"
 metafile = true
 
 [[files]]
@@ -51,6 +55,16 @@ hash = "1b9f8f88193b0974e1e067b60741657037277b8cf3f4313d6e4deabef54d2307"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
 metafile = true
@@ -63,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "6d74eac8e7c0d542a37681dc808a1af1213fd91b5a9361cca1274d7426bb278e"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
@@ -91,11 +110,6 @@ hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
 metafile = true
 
 [[files]]
-file = "mods/itemlocks.pw.toml"
-hash = "7e339dc898e79e7db9eb8c9ce902f362b1a2032e6523628ee020a9bc9fa9a77e"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols-extra.pw.toml"
 hash = "efb70be5b71312da5729ac6b319cf40ef14090ec75ad3fa48b1c65c56bf22ab2"
 metafile = true
@@ -121,6 +135,11 @@ hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
 metafile = true
 
 [[files]]
+file = "mods/no-double-sneak.pw.toml"
+hash = "db834fc92e54a4c688548de39cc0953a51fa9a56506a56ea2bbbbf6a2edf9c6a"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
@@ -143,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "f316a724cd4c3536d386a40387942f133954f3c57a871493fb8755e78e4546f4"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
 metafile = true
 
 [[files]]
@@ -218,6 +242,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
 
 [[files]]
