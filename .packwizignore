@@ -18,3 +18,4 @@ build/
 *.nix
 /.envrc
 /.direnv/
+/CNAME
